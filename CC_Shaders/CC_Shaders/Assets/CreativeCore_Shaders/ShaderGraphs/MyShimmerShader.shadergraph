@@ -26,7 +26,7 @@
     "m_Dropdowns": [],
     "m_CategoryData": [
         {
-            "m_Id": "1b6b911ef6ea4b0eb6ec7db41bb559f0"
+            "m_Id": "414b223388c0444a9d254641025b4698"
         }
     ],
     "m_Nodes": [
@@ -874,33 +874,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.CategoryData",
-    "m_ObjectId": "1b6b911ef6ea4b0eb6ec7db41bb559f0",
-    "m_Name": "",
-    "m_ChildObjectList": [
-        {
-            "m_Id": "27e0d25fa06b1e88977182bec110e956"
-        },
-        {
-            "m_Id": "12ee5d392a24628fa55cf80fb4562193"
-        },
-        {
-            "m_Id": "640574ee715d7e86875ace5a21f38933"
-        },
-        {
-            "m_Id": "b68f3f8a5f510682bb0d68ca15947918"
-        },
-        {
-            "m_Id": "532131fb4dd418848e6ff4daa716b510"
-        },
-        {
-            "m_Id": "d176732ea4375f8abf5d4325bf7dd51e"
-        }
-    ]
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "1bcbae44930f6e80b6c28e169c37f1b1",
     "m_Id": 0,
@@ -1071,7 +1044,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 0.0,
+    "m_Value": 0.4000000059604645,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -1450,6 +1423,33 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.CategoryData",
+    "m_ObjectId": "414b223388c0444a9d254641025b4698",
+    "m_Name": "",
+    "m_ChildObjectList": [
+        {
+            "m_Id": "27e0d25fa06b1e88977182bec110e956"
+        },
+        {
+            "m_Id": "12ee5d392a24628fa55cf80fb4562193"
+        },
+        {
+            "m_Id": "640574ee715d7e86875ace5a21f38933"
+        },
+        {
+            "m_Id": "b68f3f8a5f510682bb0d68ca15947918"
+        },
+        {
+            "m_Id": "532131fb4dd418848e6ff4daa716b510"
+        },
+        {
+            "m_Id": "d176732ea4375f8abf5d4325bf7dd51e"
+        }
+    ]
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector2MaterialSlot",
     "m_ObjectId": "459b33a17fe6108b9a1730f4bd2560be",
     "m_Id": 3,
@@ -1774,7 +1774,7 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "x": 0.20000000298023225,
+        "x": 0.4000000059604645,
         "y": 0.8999999761581421,
         "z": 0.0,
         "w": 0.0
@@ -1914,7 +1914,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 0.4000000059604645,
+    "m_Value": 0.5,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -2588,7 +2588,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 5.0,
+    "m_Value": 50.0,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -2771,9 +2771,9 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "r": 1.874147891998291,
-        "g": 1.0421510934829713,
-        "b": 0.25636935234069826,
+        "r": 0.8025715351104736,
+        "g": 0.06422598659992218,
+        "b": 0.04164286330342293,
         "a": 0.0
     },
     "isMainColor": false,
